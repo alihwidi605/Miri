@@ -1,4 +1,4 @@
-# Miri
+# neu_projekt
 git init
 git add .
 git commit -m "Initial commit"
